@@ -1,0 +1,2 @@
+# jumping_task
+An independent reinforcement learning project worked on as a research assistant at Brown University. In this project, a reinforcement learning agent is trained using Q-learning with optimistic initial conditions. To play the game yourself, install pygame and run the program jumping_task.py. Then run q_learning.py, wait a few minutes, and watch as the agent learns to jump over the box!
