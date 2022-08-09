@@ -7,7 +7,7 @@ In this project, a reinforcement learning agent is trained using Q-learning with
 
 ![Screen Shot 2022-08-08 at 11 27 10 PM](https://user-images.githubusercontent.com/55005116/183557862-ee84aa35-8978-479a-b0e1-81125297c692.png)
 
-———————————————
+————————————————
 
 This is a Python3 implementation of the environment used in [Learning Invariances for Policy Generalization](https://openreview.net/pdf?id=BJHRaK1PG). As described in the paper:
 
